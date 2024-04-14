@@ -153,15 +153,16 @@ KFC was founded by Colonel Harland Sanders (1890–1980), an entrepreneur who be
 </html>
 ```
 ## Output:
-![OUTPUT](./out1.png)
-![OUTPUT](./Out2.png)
-![OUTPUT](./out3.png)
-![OUTPUT](./out4.png)
-![OUTPUT](./out5.png)
-![OUTPUT](./out6.png)
+![Screenshot 2024-04-14 182912](https://github.com/jagadeesh9500/NearMe/assets/149087921/3d1f0ee0-0784-4117-91bf-e41cf39e44cd)
+![Screenshot 2024-04-14 182930](https://github.com/jagadeesh9500/NearMe/assets/149087921/23952b10-e375-45d1-b1d1-2a067822a862)
+![Screenshot 2024-04-14 182939](https://github.com/jagadeesh9500/NearMe/assets/149087921/edede93b-58f4-4f56-adad-27a7132c1aa3)
+![Screenshot 2024-04-14 182949](https://github.com/jagadeesh9500/NearMe/assets/149087921/b270d40a-c5e7-4ca1-a83d-5a6867658614)
+![Screenshot 2024-04-14 182957](https://github.com/jagadeesh9500/NearMe/assets/149087921/2be73c60-ed26-4513-a188-526895dafd15)
+![Screenshot 2024-04-14 183004](https://github.com/jagadeesh9500/NearMe/assets/149087921/6309f0a2-9891-4613-83cb-e111147adf84)
 
 ## HTML VALIDATOR
-![OUTPUT](./valid.png)
+![Screenshot 2024-04-14 183017](https://github.com/jagadeesh9500/NearMe/assets/149087921/1904f3e7-490b-4f6c-badd-5a56db4c0cbc)
+
 
 ## Result:
 The program for implementing image maps is executed successfully.
